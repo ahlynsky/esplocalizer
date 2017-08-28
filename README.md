@@ -1,8 +1,7 @@
 # esplocalizer
-
 I added UDP sending to the Arduino code. I also commented out the code for the BMP280. Otherwise the rest of the project is unchanged. esp10dofUDP.ino is the file with the added routines. 
---------------------------------------------------------------------------------
 
+-----------------------------------------------------------------------
 ##ESP Localizer Board
 The esplocalizer-tight design is open source and leverages the versatility of the ESP8266 microprocessor and WiFi along with the 10 degrees of freedom sensors and integrated battery controller. The unit comes with basic sensor code loaded and tested on the board.  
 
